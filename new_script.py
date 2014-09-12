@@ -3,3 +3,5 @@
 # this is the start to our beautiful collaborative project
 
 # this is the template to our pipeline
+
+# Hope everyone is enjoying the bootcamp
